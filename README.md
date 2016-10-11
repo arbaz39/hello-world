@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi everybody, my name is Arbaz and I am studying computer science.
